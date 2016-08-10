@@ -1,0 +1,8 @@
+name hours rate
+Ben 22 5.75
+Jason 14.5 8
+Susan 37 10.25
+Ellen 40 6.85
+Ken 28 9.5
+Ernie 17 5.5
+Zoe 19 7.25
